@@ -1,10 +1,9 @@
-import './App.css';
-import Logo from './assets/icon.svg'
+import Logo from '@material-ui/icons/AcUnit'
 
 function App() {
   return (
-    <div className="App">
-
+    <div>
+      <Logo />
     </div>
   );
 }
