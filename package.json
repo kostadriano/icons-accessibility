@@ -146,6 +146,12 @@
   "babel": {
     "presets": [
       "react-app"
+    ],
+    "plugins": [
+      "inline-react-svg"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-inline-react-svg": "^1.1.2"
   }
 }
